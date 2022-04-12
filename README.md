@@ -14,7 +14,7 @@
 
 # Installation
 
-コマンドプロンプトで次のようにしてライブラリをインストールします。
+コマンドプロンプト(黒い画面)で次のようにしてライブラリをインストールします。
 
 ```bash
 pip install pyautogui
@@ -23,7 +23,8 @@ pip install time
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+
+コマンドプロンプトで次のようにするだけで、プログラムを実行できます。
 
 ```bash
 git clone https://github.com/oshima-yoppi/crick-auto.git
@@ -36,7 +37,6 @@ python auto.py
 
 # Author
 
-作成情報を列挙する
 
 * oshima-yoppi
 * kimura-lab
