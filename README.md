@@ -10,7 +10,7 @@
 使用するライブラリは以下の通りです。
 
 * PyAutoGUI
-* timm
+* time
 
 # Installation
 
